@@ -16,5 +16,6 @@ Alike 3.0 License
 #+CAPTION: Creative Commons License
 #+LABEL:   fig:CC-logo
 [[http://i.creativecommons.org/l/by-sa/3.0/88x31.png]]
+
 [[http://creativecommons.org/licenses/by-sa/3.0/][Creative Commons Attribution-ShareAlike 3.0 Unported License]]
 
